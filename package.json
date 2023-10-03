@@ -1,0 +1,12 @@
+{
+  "name": "node_basic-informational-site",
+  "version": "1.0.0",
+  "description": "https://www.theodinproject.com/lessons/nodejs-basic-informational-site",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run node"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
